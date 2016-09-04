@@ -1,0 +1,11 @@
+作者：		walidake
+
+Java版本： 	jdk1.8
+
+需要的jar包：	auto-service
+
+annotation              注解模块
+processor               注解处理器模块
+test                        测试模块
+
+注意：	注意部分请看csdn博文内容 ：

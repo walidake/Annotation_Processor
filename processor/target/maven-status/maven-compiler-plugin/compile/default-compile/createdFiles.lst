@@ -1,0 +1,6 @@
+com\walidake\annotation\util\JavaWriter.class
+com\walidake\annotation\util\FactoryProcessor.class
+com\walidake\annotation\util\JavaWriter$Scope.class
+META-INF\services\javax.annotation.processing.Processor
+com\walidake\annotation\util\FactoryGroupedClasses.class
+com\walidake\annotation\util\FactoryAnnotatedClass.class

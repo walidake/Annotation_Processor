@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="WKSPJAR" id="/test/src/main/annotation.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/test/src/main/processor.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

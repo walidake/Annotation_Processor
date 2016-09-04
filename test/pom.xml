@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>chapter_annotation_advance</groupId>
+		<artifactId>chapter_annotation_advance</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>test</artifactId>
+	<dependencies>
+		<dependency>
+			<groupId>chapter_annotation_advance</groupId>
+			<artifactId>annotation</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>chapter_annotation_advance</groupId>
+			<artifactId>processor</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<optional>true</optional>
+		</dependency>
+	</dependencies>
+	<build />
+</project>
